@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1676740807 source:c:\users\pc-04\pictures\camera roll\shareit\music\projects\myigraphics\imain.cpp
+	"iGraphics.h"
+	<windows.h>
+	<stdlib.h>
+	<stdio.h>
+	<mmsystem.h>
+
+1675791961 c:\users\pc-04\pictures\camera roll\shareit\music\projects\myigraphics\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl/glaux.h>
+
+1676923998 source:c:\users\pc-04\pictures\camera roll\shareit\music\myigraphics\imain.cpp
+	"iGraphics.h"
+	<windows.h>
+	<stdlib.h>
+	<stdio.h>
+	<mmsystem.h>
+
+1675791961 c:\users\pc-04\pictures\camera roll\shareit\music\myigraphics\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl/glaux.h>
+
